@@ -32,9 +32,11 @@ nav {
     font-size: 20px;
 }
 
-a {
+nav a {
+    text-decoration: none;
     color: #ffffff;
     margin-left: 25px;
+
 }
 /* Div to Nav replaced list items */
 p {
@@ -66,7 +68,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+.benefit {
     margin-right: 20px;
     padding: 20px;
     clear: both;
