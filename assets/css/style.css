@@ -51,7 +51,7 @@ p {
     background-position: center;
 }
 
-content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -121,7 +121,7 @@ content {
     margin-left: 25px;
 }
 /* combine .search .online .social */
-content {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -130,13 +130,13 @@ content {
     color: #ffffff;
 }
 /* combine img .search .online .social*/
-content img {
+section img {
     float: left;
     margin-right: 25px;
     max-height: 200px;
 }
 /* combine h2 .search .online .social */
-content h2 {
+section h2 {
     font-size: 36px;
 }
 /* change to footer ?and combine .footer h2? */
