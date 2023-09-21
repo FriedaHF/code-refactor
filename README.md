@@ -8,6 +8,8 @@ A refactoring of the code that makes up the Horiseon Webpage.
 ![ScreenShot #3](<horiseon 3.png>)
 
 # Link
+Repo: https://github.com/FriedaHF/code-refactor
+Page: https://friedahf.github.io/code-refactor/
 
 # Help
 <li>Brandon Barnes</li>
